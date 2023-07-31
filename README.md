@@ -2,6 +2,10 @@
 
 The Meeting Manager App is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to manage their meetings, providing features for creating, updating, and deleting meetings. Users can also register and log in to access their meetings securely.
 
+- Frontend-code: https://github.com/Dev-shrm07/Meetx
+
+- backend-code: https://github.com/Dev-shrm07/MeetxBackend
+
 ## Features
 
 - User Registration: New users can sign up for an account to use the Meeting Manager App. Registration requires a valid email address and password.
