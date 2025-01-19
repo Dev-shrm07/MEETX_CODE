@@ -1,6 +1,6 @@
 # Meeting Manager App
 
-The Meeting Manager App is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to manage their meetings, providing features for creating, updating, and deleting meetings. Users can also register and log in to access their meetings securely.
+The Meeting Manager App is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to manage their meetings, providing features for creating, updating, and deleting meetings. Users can also register and log in to access their meetings securely. [check out here](https://meetxksh.netlify.app/)
 
 - Frontend-code: https://github.com/Dev-shrm07/Meetx
 
@@ -22,9 +22,14 @@ The Meeting Manager App is a web application built using the MERN (MongoDB, Expr
 
 - **Frontend**: React.js with React Hooks and React Router for the user interface.
 
+## Preview
+
+
+
 - **Backend**: Node.js with Express.js for handling API requests and server-side logic.
 
 - **Database**: MongoDB to store user information and meeting data.
 
 - **Authentication**: Express-session for secure user authentication.
 
+<img width="959" alt="meetx" src="https://github.com/user-attachments/assets/8f367464-7914-455b-a92a-9978d92c2093" />
